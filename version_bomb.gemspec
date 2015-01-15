@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Aaron Jensen"]
   spec.email         = ["aaronjensen@gmail.com"]
   spec.summary       = %q{Monkey patch safely-erish.}
-  spec.description   = %q{Specify the gem version you are monkey patching and blow up if anyone upgrades it.}
+  spec.description   = %q{Specify the gem or ruby version you are monkey patching and blow up if anyone upgrades it.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
